@@ -1,0 +1,7 @@
+# MTJ Build Properties
+Mpowerplayer.includes=src/com/hjsoft/bensbackhoe/BenGameCanvas.java\
+,src/com/hjsoft/bensbackhoe/Main.java\
+,src/com/hjsoft/bensbackhoe/Truck.java\
+
+Mpowerplayer.excludes=\
+
